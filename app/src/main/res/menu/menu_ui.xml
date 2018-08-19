@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_zoom"
+        android:title="@string/S_item_zoom"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/item_ubicacion"
+        android:title="@string/S_item_mi_ubicacion"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/item_compas"
+        android:title="@string/S_item_compas"
+        android:checkable="true"
+        />
+    <item
+        android:id="@+id/item_mapa"
+        android:title="@string/S_item_mapa"
+        />
+    <item
+        android:id="@+id/item_tierra"
+        android:title="@string/S_item_tierra"
+        />
+</menu>

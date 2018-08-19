@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/seguidor_ruta_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/cont_mapa_seg_ruta"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+    <Button
+        android:id="@+id/grabar_ruta"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="@drawable/boton_grabar_ruta"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:onClick="onClickGrabarButton" />
+
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MapAMI</string>
+
+    <string name="title_activity_seguidor_ruta">Ruta Trazada</string>
+
+    <string name="mapa_no_listo">El mapa no esta listo aún.</string>
+
+    <!--    Permisos de Acceso de Ubicacion    -->
+    <string name="permisos_ubicacion_logica">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="permisos_ubicacion_denegados">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="toast_permisos_requeridos">Location permission is required for this demo.</string>
+    <string name="title_activity_buses_gye__main">Buses GYE</string>
+
+
+    <string name="boton_trazado">Trazado Ruta</string>
+    <string name="S_item_zoom">Activar Zoom</string>
+    <string name="S_item_compas">Activar Compas</string>
+    <string name="S_item_mi_ubicacion">Activar Mi Ubicación</string>
+    <string name="S_item_mapa">Activar Vista Mapa</string>
+    <string name="S_item_tierra">Activar Vista Tierra</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
